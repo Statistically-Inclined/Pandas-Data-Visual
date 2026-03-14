@@ -1,0 +1,13 @@
+Month,Product_Category,Marketing_Spend,Sales_Revenue,Units_Sold
+2025-01,Electronics,1200,15000,300
+2025-02,Electronics,1500,18500,370
+2025-03,Electronics,1100,14200,280
+2025-04,Electronics,2000,25000,500
+2025-05,Electronics,2500,31000,610
+2025-06,Electronics,2200,28000,550
+2025-01,Home_Decor,800,9000,150
+2025-02,Home_Decor,900,10500,175
+2025-03,Home_Decor,1200,13000,220
+2025-04,Home_Decor,1000,11000,185
+2025-05,Home_Decor,1500,17000,290
+2025-06,Home_Decor,1400,16500,275
